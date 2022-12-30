@@ -1,0 +1,8 @@
+do
+{
+competitive_programming.daily();
+networking.occassionally();
+projects.asmuch();
+seekinternships.goodones();
+}
+while(!placed)
