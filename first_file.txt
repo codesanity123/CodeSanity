@@ -1,1 +1,0 @@
-This is the first file which is being pushed from the system to the git repo from terminal to check whether the connection has been made or not.
